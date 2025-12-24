@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Greeting from my side
-        run: echo "Welcome to my first GitHub Actions workflow"
+        run: echo "Welcome and happy to see you in my first GitHub Actions workflow"
